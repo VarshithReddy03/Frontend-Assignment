@@ -1,0 +1,24 @@
+/* GroupColumn.css */
+.group-column {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    min-width: 250px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .group-column h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #4A4A4A;
+    margin-bottom: 1rem;
+  }
+  
+  .ticket-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
